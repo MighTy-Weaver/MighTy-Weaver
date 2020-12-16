@@ -1,5 +1,5 @@
-# Hi There! Welcome to my GitHub Profile Page!
-## You might want to visit my webpage [mighty-weaver.github.io](mighty-weaver.github.io)
+### Hi There! Welcome to my GitHub Profile Page!
+### You might want to visit my webpage [mighty-weaver.github.io](mighty-weaver.github.io)
 
 <!--
 **MighTy-Weaver/MighTy-Weaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
