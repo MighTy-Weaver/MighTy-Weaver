@@ -1,8 +1,10 @@
 <h1 align="center">Hey there 👋 Welcome to Mighty's Github</h1>
-<h2 align="center">Take a look at my website below</h2>
+
+[//]: # (<h2 align="center">Take a look at my website below</h2>)
 <p align="center">
-  <a href="https://mighty-weaver.github.io/"><img height="25" src="https://img.shields.io/badge/Website-2B4783?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:mightyweaver829@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mighty-weaver.github.io/"><img height="30" src="https://img.shields.io/badge/Website-2B4783?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:mightyweaver829@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/MightyWeaver2"><img height="30" src="https://img.shields.io/twitter/follow/MightyWeaver2?style=social"></a>
 </p>
 
 <p float="left">
